@@ -11,7 +11,6 @@ Receive-Job Job1 # receive output from Job 1
 ```powershell
 Restart-Service -Name Spooler -Force
 
-
 ```
 
 ##  Processes
