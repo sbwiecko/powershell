@@ -1,4 +1,4 @@
-##### et-ExecutionPolicy RemoteSigned # (adm) only remote script needs signature
+##### Set-ExecutionPolicy RemoteSigned # (adm) only remote script needs signature
 
 Use access points for debogging
 
